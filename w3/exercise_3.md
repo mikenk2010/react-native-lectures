@@ -1,7 +1,8 @@
 # Lab 3 - PhotoMap
 
 The goal of this lab is to learn how to use MapView, get Location, pick photos from Library, Camera.
-![Image](https://media.giphy.com/media/3ohzdFKJ98htr5hdja/giphy.gif)
+
+![Image](https://media.giphy.com/media/xUA7aVYV31TnD8WhvG/giphy.gif)
 
 
 ### Getting Started
