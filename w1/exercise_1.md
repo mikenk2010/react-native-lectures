@@ -51,7 +51,7 @@ The supervisor makes the decision on what step to do next. Their job is to descr
  * Turn off [App Transport Security for iOS only](https://guides.codepath.com/ios/App-Transport-Security):
      - Skip this step if we are working on HTTPS. We need to turn off `App Transport Security`. App Transport Security was introduced in iOS9 as a way to enforce best practices in secure connections between an app and its back end.
  * Fetch data and render to (`ListView`)
- 1. API: https://api.tumblr.com/v2/blog/xkcn.info/posts/photo?api_key=Q6vHoaVm5L1u2ZAW1fqv3Jw48gFzYVg9P0vH0VHl3GVy6quoGV
+ 1. API: https://api.tumblr.com/v2/blog/itsukadokoka.tumblr.com/posts/photo?api_key=Q6vHoaVm5L1u2ZAW1fqv3Jw48gFzYVg9P0vH0VHl3GVy6quoGV
  2. [Tumblr API Document](https://www.tumblr.com/docs/en/api/v2)
 
  ![Image](http://i.imgur.com/Hgw0d4Q.png)
